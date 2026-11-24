@@ -6,7 +6,7 @@ An independent open-source project for AI-assisted quantitative trading and syst
 
 This project aims to bridge AI agents and the Korean financial market through reproducible research and modular trading infrastructure.
 
-## Project Scope
+## Project Scope 
 
 - Kiwoom REST API and MCP integration
 - Historical and real-time market data collection
